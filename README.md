@@ -2,7 +2,7 @@
 
 Hello!
 
-My name is Neel Chudasama and this is my project on Data analysis on four national parks in USA - Yellowstone, Great Smoky Mountains, Bryce and Yosemite National park.
+My name is Neel Chudasama and this is my project on Data analysis of biodiversity on four national parks in USA - Yellowstone, Great Smoky Mountains, Bryce and Yosemite National park.
 
 In this project, I use python to produce data visualisations and convey findings.
 
